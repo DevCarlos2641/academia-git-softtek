@@ -3,3 +3,4 @@ echo "comment in the last commit for branch develop"
 echo "other comment"
 
 This comment with branch task
+Comment from develop
